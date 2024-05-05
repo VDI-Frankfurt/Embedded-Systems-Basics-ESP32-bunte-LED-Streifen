@@ -2,7 +2,7 @@
 
 
 void setup() {
-  pinMode(LED_PIN, OUTPUT);            // Benutzt Macro LED_BUILTIN um GPIO2 als Ausgang zu definieren
+  pinMode(LED_PIN, OUTPUT);            // Benutzt Macro LED_PIN um GPIO2 als Ausgang zu definieren
 }
 
 
